@@ -1,15 +1,15 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Cultura Pop",
+    "description": "Preguntas relacionadas con artistas, música y otras expresiones de la cultura pop."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Deportes extremos",
+    "description": "Preguntas relacionadas con diversos deportes extremos  y eventos deportivos."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Musica",
+    "description": "Preguntas relacionadas con artistas, generos musicales y discografia"
   },
   {
     "category": "Cine",
@@ -20,7 +20,7 @@
     "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Comics",
+    "description": "Preguntas relacionadas con diferentes personajes y ediciones de Marvel y DC"
   }
 ]
